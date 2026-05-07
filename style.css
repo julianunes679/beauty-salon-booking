@@ -77,3 +77,21 @@ button {
 button:hover {
   background-color: #851b83;
 }
+
+
+.success {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.success h1 {
+  color: #a326a1;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.success p {
+  color: #555;
+  font-size: 18px;
+  line-height: 1.5;
+}
