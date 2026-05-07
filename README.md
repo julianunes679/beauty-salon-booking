@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com o objetivo de criar uma solução digital simp
 ##  Acesso ao projeto
 
 * Site (no-code): https://sites.google.com/view/salaobella/in%C3%ADcio
-* Repositório (código):https://sites.google.com/view/salaobella/in%C3%ADcio
+* Repositório (código):https://github.com/julianunes679/beauty-salon-booking
 * Sistema funcional: https://julianunes679.github.io/beauty-salon-booking/
 
 ##  Funcionalidades
