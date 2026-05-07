@@ -10,6 +10,13 @@ formulario.addEventListener("submit", function(event) {
       <p>
         Retornaremos com a confirmação do seu atendimento.
       </p>
+
+      <a 
+        href="https://sites.google.com/view/salaobella/in%C3%ADcio"
+        class="voltar"
+      >
+        Voltar para o site
+      </a>
     </div>
   `;
 });
