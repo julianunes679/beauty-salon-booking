@@ -4,39 +4,63 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Agendamento | Salão Bella</title>
+
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
   <div class="container">
+
     <div class="card">
+
       <h1>Salão Bella</h1>
+
       <p class="subtitle">
         Agende seu horário de forma rápida e prática.
       </p>
 
       <form id="formulario">
-        <input type="text" placeholder="Nome completo" required>
 
-        <input type="tel" placeholder="Telefone" required>
+        <input 
+          type="text" 
+          placeholder="Nome completo" 
+          required
+        >
+
+        <input 
+          type="tel" 
+          placeholder="Telefone" 
+          required
+        >
 
         <select required>
-          <option value="">Selecione um serviço</option>
+          <option value="">
+            Selecione um serviço
+          </option>
+
           <option>Corte feminino</option>
           <option>Escova</option>
           <option>Manicure</option>
           <option>Design de sobrancelha</option>
         </select>
 
-        <input type="date" required>
+        <input 
+          type="date" 
+          required
+        >
 
         <button type="submit">
           Confirmar agendamento
         </button>
+
       </form>
+
     </div>
+
   </div>
 
   <script src="script.js"></script>
+
 </body>
 </html>
